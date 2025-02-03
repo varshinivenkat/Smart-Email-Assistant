@@ -7,7 +7,7 @@ The AI Email Writer Extension is a browser extension that enhances email composi
 -Ensure you have Java and Spring Boot installed. Then, run:
 
 ```sh
-cd backend
+cd email-writer-sb
 ./mvnw spring-boot:run
 ```
 
