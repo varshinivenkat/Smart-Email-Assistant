@@ -11,17 +11,17 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-2. **Installing the Browser Extension**
--Open Chrome and go to chrome://extensions/.
--Enable Developer Mode (top right corner).
--Click "Load Unpacked" and select the extension folder.
--The extension is now installed in Chrome.
+2. **Installing the Browser Extension** :
+* Open Chrome and go to chrome://extensions/.
+* Enable Developer Mode (top right corner).
+* Click "Load Unpacked" and select the extension folder.
+* The extension is now installed in Chrome.
 
 3. **Using the Extension**
--Open Gmail and compose a new email.
--Click the "AI Reply" button in the toolbar.
--Select a tone from the popup.
--AI will generate and insert a response.
+* Open Gmail and compose a new email.
+* Click the "AI Reply" button in the toolbar.
+* Select a tone from the popup.
+* AI will generate and insert a response.
 
 
 
