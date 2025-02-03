@@ -1,6 +1,5 @@
 package com.email.writer.app;
 
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -12,7 +11,6 @@ public class EmailGeneratorController {
 
     private final EmailGeneratorService emailGeneratorService;
 
-    @Autowired  // Optional in newer Spring versions but can be added for clarity
     public EmailGeneratorController(EmailGeneratorService emailGeneratorService) {
         this.emailGeneratorService = emailGeneratorService;
     }
