@@ -1,4 +1,4 @@
-#AI Email Writer Extension
+# AI Email Writer Extension
 
 The AI Email Writer Extension is a browser extension that enhances email composition by providing AI-generated replies based on the original email's content. Users can select a tone, and the extension will generate a professional, well-crafted response instantly.
 
